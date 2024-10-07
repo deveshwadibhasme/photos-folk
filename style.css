@@ -115,7 +115,7 @@ img {
   position: relative;
   display: flex;
   justify-content: center;
-  background: url(./img/hero-image.png) no-repeat top;
+  background: url(./hero-image.png) no-repeat top;
   background-size: cover;
 }
 
